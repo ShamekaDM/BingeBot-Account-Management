@@ -4,7 +4,7 @@ body {
   padding: 0;
   font-family: 'Arial', sans-serif;
   background-size: cover;
-  background-color: #141414; /* Netflix-like dark background */
+  background-color: #141414; /* dark background */
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -12,7 +12,7 @@ body {
   color: white;
 }
 
-/* BINGEBOT Logo similar to Netflix logo */
+/* BINGEBOT logo */
 .logo {
   position: absolute;
   top: 50px; /* Add padding above the logo */
@@ -25,7 +25,7 @@ body {
           -2px -2px 0 #fff,
           2px -2px 0 #fff,
           -2px 2px 0 #fff,
-          2px 2px 0 #fff;  /* White outline similar to Netflix */
+          2px 2px 0 #fff;  /* White outline similar to */
 }
 
 /* Profile and Account Dashboards */
@@ -34,7 +34,7 @@ body {
   padding: 20px;
   color: white;
   padding-top: 100px;
-  background-color: #141414; /* Netflix dark background */
+  background-color: #141414; /* dark background */
 }
 
 /* User Name (Top Right) with Dropdown */
@@ -79,7 +79,7 @@ body {
   background-color: #555;
 }
 
-/* Movie sections styling (horizontal scroll like Netflix) */
+/* Movie sections styling (horizontal scroll) */
 .movie-section {
   margin: 40px 0;
   padding-left: 20px;
@@ -120,7 +120,7 @@ body {
   transform: scale(1.1);
 }
 
-/* Sign out button (bold red like Netflix) */
+/* Sign out button (bold red) */
 .sign-out-button {
   width: 100%;
   padding: 15px;
@@ -138,7 +138,7 @@ body {
   background-color: darkred;
 }
 
-/* Form input styling similar to Netflix */
+/* Form input styling */
 input {
   width: 100%;
   padding: 15px;
@@ -150,7 +150,7 @@ input {
   color: white;
 }
 
-/* Buttons for forms (same as Netflix-like buttons) */
+/* Buttons for forms */
 button {
   width: 100%;
   padding: 15px;

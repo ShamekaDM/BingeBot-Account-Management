@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bingebot-account-management/bingebot-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bingebot-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bingebot-backend/BingeBot-account-management" vcs="Git" />
   </component>
 </project>
